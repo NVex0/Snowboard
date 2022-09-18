@@ -10,4 +10,6 @@ Vào hexeditor bất kì, tìm khối Hex `FF FE` rồi nhìn phần text đằn
 
 Cái comment kế, nếu tiếp xúc đủ nhiều bạn có thể nhìn ra ngay nó được encode dùng base64.
 
-Decode base64 bằng mấy tool online trên mạng, ta được Flag.
+Hoặc có 1 cách làm dễ hơn với challenge này, dùng `file Snowboard.jpg` là ta có thể thấy cả 2 comment luôn.
+
+Decode comment đã encode base64 bằng mấy tool online trên mạng, ta được Flag.
